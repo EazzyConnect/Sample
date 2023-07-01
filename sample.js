@@ -7,3 +7,8 @@ function sample(str) {
  }
 }
 console.log(sample(12));
+
+function greet() {
+ return "Hello"
+}
+console.log(greet());
